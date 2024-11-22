@@ -7,6 +7,7 @@ func printfun() {
 	var2 := 42
 	var3 := 3.14
 	fmt.Printf("%v %v %v\n", var1, var2, var3) // // Prints: Hello 42 3.14
+	fmt.Printf("%v %v %v\n", var1, var2, var3) // // Prints: Hello 42 3.14
 
 	fmt.Printf("%T %T %T\n", var1, var2, var3) // Type of variables
 
